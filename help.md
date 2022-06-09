@@ -5,4 +5,4 @@
   2. Open VEAR app on your iphone
   3. After the splash page, the app will display the following page
   
-  ![home image](https://github.com/niteapps/HumiLight/blob/main/8.jpg)
+  ![home image](https://github.com/niteapps/HumiLight/blob/main/home.jpg)
